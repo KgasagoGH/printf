@@ -70,4 +70,5 @@ git clone https://github.com/Ouyei/printf
 
 ![Flowchart](https://raw.githubusercontent.com/Ouyei/printf/main/printf_flowchart.png)
 
-Created by [Oscar Bedat](https://github.com/Ouyei/) & [Bruno Rodríguez](https://github.com/brunonra-dev/).
+created by Mashoto Kgasago https://github.com/KgasagoGH 
+and George Mampuru https://github.com/LSDAR
